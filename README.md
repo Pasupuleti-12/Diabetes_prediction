@@ -5,4 +5,4 @@ Key Features
 2. XGBoost model for accurate classification
 3. Feature engineering, including interaction terms like Glucose × BMI
 4. Streamlit interface for user-friendly input and visualization
-5. Deployable on Render & Streamlit Community Cloud for public access
+5. Deployable on Streamlit Community Cloud for public access
