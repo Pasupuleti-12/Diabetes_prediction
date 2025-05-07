@@ -6,3 +6,4 @@ Key Features
 3. Feature engineering, including interaction terms like Glucose × BMI
 4. Streamlit interface for user-friendly input and visualization
 5. Deployable on Streamlit Community Cloud for public access
+This is the link to open the project as streamlit app: https://diabetic-risk-predictor.streamlit.app/
